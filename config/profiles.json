@@ -1,0 +1,17 @@
+{
+    "ИП \"Бондаренко\"": {
+        "api_key": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzc3MjQ0ODIsImlhdCI6MTczNzExOTY4MiwianRpIjo3MDQ3NTcsIm5iZiI6MTczNzExOTY4Mn0.s6LijquYnkjjUBxczHvYrIb4MjprTT9FesZum-7u0XA"
+    },
+    "test 2": {
+        "api_key": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzc3MjQ0ODIsImlhdCI6MTczNzExOTY4MiwianRpIjo3MDQ3NTcsIm5iZiI6MTczNzExOTY4Mn0.s6LijquYnkjjUBxczHvYrIb4MjprTT9FesZum-7u0XA"
+    },
+    "test2": {
+        "api_key": "bearer 134341234"
+    },
+    "test 4": {
+        "api_key": "5738457395732"
+    },
+    "test ": {
+        "api_key": "bearer 123"
+    }
+}
